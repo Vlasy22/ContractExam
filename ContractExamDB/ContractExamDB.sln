@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "ContractExamDB", "ContractExamDB\ContractExamDB.sqlproj", "{2B8DC1E9-A5A7-4BBA-816C-D5128D7BB9CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B8DC1E9-A5A7-4BBA-816C-D5128D7BB9CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B8DC1E9-A5A7-4BBA-816C-D5128D7BB9CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B8DC1E9-A5A7-4BBA-816C-D5128D7BB9CC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2B8DC1E9-A5A7-4BBA-816C-D5128D7BB9CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B8DC1E9-A5A7-4BBA-816C-D5128D7BB9CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B8DC1E9-A5A7-4BBA-816C-D5128D7BB9CC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7611AA90-F75A-493F-914E-4066C1F27857}
+	EndGlobalSection
+EndGlobal
