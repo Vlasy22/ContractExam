@@ -12,6 +12,10 @@ namespace ContractExamService
     {
         static void Main(string[] args)
         {
+            Batch b;
+            BatchContractContractData batchContractContractData = new BatchContractContractData();
+            BatchContract batchContract;
+            
             string ns = "{http://creditinfo.com/schemas/Sample/Data}";
             XmlLoader xmlLoader = new XmlLoader();
             IEnumerable<XElement> elements = xmlLoader.SimpleStreamAxis("Contract");

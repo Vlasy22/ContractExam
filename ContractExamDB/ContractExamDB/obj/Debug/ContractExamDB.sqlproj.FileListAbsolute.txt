@@ -4,3 +4,7 @@ C:\Users\vlasakm\source\repos\ContractExam\ContractExamDB\ContractExamDB\obj\Deb
 C:\Users\vlasakm\source\repos\ContractExam\ContractExamDB\ContractExamDB\obj\Debug\ContractExamDB.pdb
 C:\Users\vlasakm\source\repos\ContractExam\ContractExamDB\ContractExamDB\bin\Debug\ContractExamDB.dll
 C:\Users\vlasakm\source\repos\ContractExam\ContractExamDB\ContractExamDB\bin\Debug\ContractExamDB.pdb
+C:\Users\vlasakm\source\repos\ContractExam\ContractExamDB\ContractExamDB\obj\Debug\Model.xml
+C:\Users\vlasakm\source\repos\ContractExam\ContractExamDB\ContractExamDB\obj\Debug\refactor.xml
+C:\Users\vlasakm\source\repos\ContractExam\ContractExamDB\ContractExamDB\obj\Debug\postdeploy.sql
+C:\Users\vlasakm\source\repos\ContractExam\ContractExamDB\ContractExamDB\obj\Debug\predeploy.sql

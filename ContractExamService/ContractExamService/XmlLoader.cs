@@ -17,38 +17,6 @@ namespace ContractExamService
         {
             this.Path = AppDomain.CurrentDomain.BaseDirectory + "example.xml";
         }
-        public void Load()
-        {
-            string xml;
-            using (StreamReader sr = new StreamReader(Path))
-            {
-                sr.ReadLine();
-                xml = sr.ReadToEnd();
-            }
-            using (StreamWriter sw = new StreamWriter(Path))
-                sw.Write(xml);
-
-            using (XmlReader reader = XmlReader.Create(Path))
-            {
-                while (reader.Read())
-                {
-                    if (reader.IsStartElement())
-                    {
-                        //return only when you have START tag  
-                        switch (reader.Name.ToString())
-                        {
-                            case "Name":
-                                Console.WriteLine("Name of the Element is : " + reader.ReadString());
-                                break;
-                            case "Location":
-                                Console.WriteLine("Your Location is : " + reader.ReadString());
-                                break;
-                        }
-                    }
-                    Console.WriteLine("");
-                }
-            }
-        }
         public IEnumerable<XElement> SimpleStreamAxis(string elementName)
         {
             using (XmlReader reader = XmlReader.Create(Path))

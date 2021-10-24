@@ -10,3 +10,4 @@ C:\Users\vlasakm\source\repos\ContractExam\ContractExamService\ContractExamServi
 C:\Users\vlasakm\source\repos\ContractExam\ContractExamService\ContractExamService\obj\Debug\ContractExamService.csproj.CopyComplete
 C:\Users\vlasakm\source\repos\ContractExam\ContractExamService\ContractExamService\obj\Debug\ContractExamService.exe
 C:\Users\vlasakm\source\repos\ContractExam\ContractExamService\ContractExamService\obj\Debug\ContractExamService.pdb
+C:\Users\vlasakm\source\repos\ContractExam\ContractExamService\ContractExamService\bin\Debug\example.xml
