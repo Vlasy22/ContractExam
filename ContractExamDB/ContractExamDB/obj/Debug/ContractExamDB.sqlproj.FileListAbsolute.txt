@@ -1,0 +1,6 @@
+C:\Users\vlasakm\source\repos\ContractExam\ContractExamDB\ContractExamDB\bin\Debug\ContractExamDB.dacpac
+C:\Users\vlasakm\source\repos\ContractExam\ContractExamDB\ContractExamDB\obj\Debug\ContractExamDB.sqlproj.AssemblyReference.cache
+C:\Users\vlasakm\source\repos\ContractExam\ContractExamDB\ContractExamDB\obj\Debug\ContractExamDB.dll
+C:\Users\vlasakm\source\repos\ContractExam\ContractExamDB\ContractExamDB\obj\Debug\ContractExamDB.pdb
+C:\Users\vlasakm\source\repos\ContractExam\ContractExamDB\ContractExamDB\bin\Debug\ContractExamDB.dll
+C:\Users\vlasakm\source\repos\ContractExam\ContractExamDB\ContractExamDB\bin\Debug\ContractExamDB.pdb

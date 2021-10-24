@@ -1,0 +1,31 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Contract] (Table)
+       [dbo].[ContractDate] (Table)
+       [dbo].[ContractDateType] (Table)
+       [dbo].[ContractPrice] (Table)
+       [dbo].[ContractPriceType] (Table)
+       [dbo].[ContractState] (Table)
+       [dbo].[ContractXSubject] (Table)
+       [dbo].[Currency] (Table)
+       [dbo].[Individual] (Table)
+       [dbo].[SubjectRole] (Table)
+       Foreign Key: <unnamed> (Foreign Key)
+       Foreign Key: <unnamed> (Foreign Key)
+       Foreign Key: <unnamed> (Foreign Key)
+       Foreign Key: <unnamed> (Foreign Key)
+       Foreign Key: <unnamed> (Foreign Key)
+       Foreign Key: <unnamed> (Foreign Key)
+       Foreign Key: <unnamed> (Foreign Key)
+
+** Supporting actions
