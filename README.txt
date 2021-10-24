@@ -1,4 +1,4 @@
-Steps
+Taken/Planned Steps
 1. Database structure design - see ER diagram at https://dbdiagram.io/d/617572766239e146477fd8db
 2. Creating repository, database project and console project
 3. Creating database on local, Creating INSERTs for enums (like Currency...)
