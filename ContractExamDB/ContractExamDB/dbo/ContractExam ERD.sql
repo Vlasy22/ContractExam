@@ -22,8 +22,7 @@ GO
 
 CREATE TABLE [ContractDateType] (
   [IDContractDateType] int PRIMARY KEY,
-  [Code] nvarchar(20),
-  [Name] nvarchar(20)
+  [Name] nvarchar(50)
 )
 GO
 
@@ -38,15 +37,13 @@ GO
 
 CREATE TABLE [ContractPriceType] (
   [IDContractPriceType] int PRIMARY KEY,
-  [Code] nvarchar(20),
   [Name] nvarchar(20)
 )
 GO
 
 CREATE TABLE [Currency] (
   [IDCurrency] int PRIMARY KEY,
-  [Code] nvarchar(3),
-  [Name] nvarchar(50)
+  [Code] nvarchar(3)
 )
 GO
 
