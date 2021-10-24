@@ -59,4 +59,10 @@
     <Folder Include="dbo\Views" />
     <Folder Include="dbo\Stored Procedures" />
   </ItemGroup>
+  <ItemGroup>
+    <Build Include="dbo\ContractExam ERD.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ContractExamDB.publish.xml" />
+  </ItemGroup>
 </Project>
