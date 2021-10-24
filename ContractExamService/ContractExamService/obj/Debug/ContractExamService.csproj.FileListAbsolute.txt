@@ -1,0 +1,12 @@
+C:\Users\vlasakm\source\repos\ContractExam\ContractExamService\ContractExamService\bin\Debug\ContractExamService.exe.config
+C:\Users\vlasakm\source\repos\ContractExam\ContractExamService\ContractExamService\bin\Debug\ContractExamService.exe
+C:\Users\vlasakm\source\repos\ContractExam\ContractExamService\ContractExamService\bin\Debug\ContractExamService.pdb
+C:\Users\vlasakm\source\repos\ContractExam\ContractExamService\ContractExamService\bin\Debug\EntityFramework.dll
+C:\Users\vlasakm\source\repos\ContractExam\ContractExamService\ContractExamService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vlasakm\source\repos\ContractExam\ContractExamService\ContractExamService\bin\Debug\EntityFramework.xml
+C:\Users\vlasakm\source\repos\ContractExam\ContractExamService\ContractExamService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vlasakm\source\repos\ContractExam\ContractExamService\ContractExamService\obj\Debug\ContractExamService.csproj.AssemblyReference.cache
+C:\Users\vlasakm\source\repos\ContractExam\ContractExamService\ContractExamService\obj\Debug\ContractExamService.csproj.CoreCompileInputs.cache
+C:\Users\vlasakm\source\repos\ContractExam\ContractExamService\ContractExamService\obj\Debug\ContractExamService.csproj.CopyComplete
+C:\Users\vlasakm\source\repos\ContractExam\ContractExamService\ContractExamService\obj\Debug\ContractExamService.exe
+C:\Users\vlasakm\source\repos\ContractExam\ContractExamService\ContractExamService\obj\Debug\ContractExamService.pdb

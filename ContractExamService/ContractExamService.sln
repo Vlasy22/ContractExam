@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContractExamService", "ContractExamService\ContractExamService.csproj", "{AD36DB94-3838-4171-9E1B-B53AD64104C9}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "ContractExamDB", "..\ContractExamDB\ContractExamDB\ContractExamDB.sqlproj", "{2B8DC1E9-A5A7-4BBA-816C-D5128D7BB9CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,12 @@ Global
 		{AD36DB94-3838-4171-9E1B-B53AD64104C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD36DB94-3838-4171-9E1B-B53AD64104C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD36DB94-3838-4171-9E1B-B53AD64104C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B8DC1E9-A5A7-4BBA-816C-D5128D7BB9CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B8DC1E9-A5A7-4BBA-816C-D5128D7BB9CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B8DC1E9-A5A7-4BBA-816C-D5128D7BB9CC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2B8DC1E9-A5A7-4BBA-816C-D5128D7BB9CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B8DC1E9-A5A7-4BBA-816C-D5128D7BB9CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B8DC1E9-A5A7-4BBA-816C-D5128D7BB9CC}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

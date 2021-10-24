@@ -10,6 +10,10 @@ namespace ContractExamService
     {
         static void Main(string[] args)
         {
+            using(DbConnection db = new DbConnection())
+            {
+
+            }
         }
     }
 }
